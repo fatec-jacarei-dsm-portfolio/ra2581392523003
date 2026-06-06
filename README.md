@@ -1,6 +1,6 @@
 # Portfólio de Projetos - Fatec Jacareí
 
-**Aluno:** ELOAH SOUSA DA SILVA
+**Aluno:** ELOAH SOUSA DA SILVA  
 **Curso:** Desenvolvimento de Software Multiplataforma  
 **Turma:** 2° Semestre de 2025
 
