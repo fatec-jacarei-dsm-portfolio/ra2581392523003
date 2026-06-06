@@ -1,13 +1,17 @@
-# ra2581392523003
+# Portfólio de Projetos - Fatec Jacareí
 
-Repositório do aluno ELOAH SOUSA DA SILVA.
+**Aluno:** ELOAH SOUSA DA SILVA
+**Curso:** Desenvolvimento de Software Multiplataforma  
+**Turma:** 2° Semestre de 2025
 
-Curso: Desenvolvimento de Software Multiplataforma
+---
 
-Turma: 2o. Semestre de 2025 Portfólio Online
+**Portfólio Online**
 
-# GitHub Pages
-https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523003/
+🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523003/)
 
-# Apresentação Portfólio
-https://youtu.be/S85CWK2a3AU?si=mL7Q5mxGjVxZsh6w
+---
+
+**Vídeos de Apresentação**
+
+🎤 2DSM - [Vídeo](https://youtu.be/S85CWK2a3AU?si=mL7Q5mxGjVxZsh6w)  
